@@ -47,4 +47,19 @@ p {
   border-radius: 3em;
   max-width: 26em;
 }
+
+.alertRating {
+  color: var(--orange);
+  text-align: center;
+  background-color: hsl(213deg 19% 24%);
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 40px;
+  padding: 0.2em 0em;
+  border-radius: 1.5em;
+  font-size: 0.8em;
+  padding-top: 5px;
 }
+
+}
+

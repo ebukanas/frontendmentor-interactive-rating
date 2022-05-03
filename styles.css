@@ -51,7 +51,7 @@ li {
 }
 
 li:hover {
-  background-color: var(--orange);
+  background-color: var(--light-grey);
   color: var(--white);
 }
 
